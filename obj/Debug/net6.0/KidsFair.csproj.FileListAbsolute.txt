@@ -1,0 +1,15 @@
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.csproj.AssemblyReference.cache
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.AssemblyInfo.cs
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\KidsFair.exe
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\KidsFair.deps.json
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\KidsFair.runtimeconfig.json
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\KidsFair.dll
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\KidsFair.pdb
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.dll
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\refint\KidsFair.dll
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.pdb
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\KidsFair.genruntimeconfig.cache
+C:\Users\User\Documents\MauHT22\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\ref\KidsFair.dll
